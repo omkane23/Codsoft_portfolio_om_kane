@@ -36,12 +36,9 @@ Welcome to my **Personal Portfolio Website**! This project is a simple, clean, a
 
 ## 📷 Screenshots (Optional)
 
-_Add screenshots here once your site is live to showcase its design._
+<img width="1919" height="876" alt="image" src="https://github.com/user-attachments/assets/7f04e595-8c59-434b-b212-5c771b5b8097" />
 
-## 🔗 Live Demo
 
-[View Portfolio Website Live](https://your-username.github.io/portfolio-website/)  
-_(Replace with your actual GitHub Pages link)_
 
 ## 📄 How to Use
 
