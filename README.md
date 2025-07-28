@@ -37,6 +37,13 @@ Welcome to my **Personal Portfolio Website**! This project is a simple, clean, a
 ## 📷 Screenshots (Optional)
 
 <img width="1919" height="876" alt="image" src="https://github.com/user-attachments/assets/7f04e595-8c59-434b-b212-5c771b5b8097" />
+<img width="1911" height="869" alt="image" src="https://github.com/user-attachments/assets/d90e1a71-b8b0-4a7f-bb4f-aaabfbf433f3" />
+<img width="1916" height="884" alt="image" src="https://github.com/user-attachments/assets/46406044-ca54-4e64-9dab-18d980ee69a5" />
+<img width="1910" height="884" alt="image" src="https://github.com/user-attachments/assets/60f0f82e-26ad-48c9-a9db-ced9f71e5be9" />
+<img width="1918" height="875" alt="image" src="https://github.com/user-attachments/assets/9fa9a549-240d-42cb-b4b9-2b2f85fa4dc7" />
+<img width="1914" height="873" alt="image" src="https://github.com/user-attachments/assets/afdec0e7-0c5a-4743-9904-23afc63abbba" />
+<img width="1919" height="877" alt="image" src="https://github.com/user-attachments/assets/1c80ee20-3996-4b69-99c3-9173a2d27e8e" />
+
 
 
 
@@ -55,8 +62,8 @@ Welcome to my **Personal Portfolio Website**! This project is a simple, clean, a
 
 ## 📬 Contact
 
-- 📧 Email: your.email@example.com
-- 📱 Phone: +1 234 567 890
+- 📧 Email: omkane222@gmail.com
+- 📱 Phone: +91 9322516206
 
 ## 📝 License
 
@@ -64,4 +71,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-> Designed and developed by **Your Name**
+> Designed and developed by **Om Kane**
