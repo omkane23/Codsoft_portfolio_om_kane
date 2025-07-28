@@ -49,16 +49,13 @@ Welcome to my **Personal Portfolio Website**! This project is a simple, clean, a
 
 ## 📄 How to Use
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/portfolio-website.git
-   ```
 
-2. Replace placeholder content:
+
+1. Replace placeholder content:
    - `Your Name`, bio, and contact details in `index.html`
    - Replace images and resume with your own files
 
-3. Open `index.html` in your browser or deploy via GitHub Pages
+2. Open `index.html` in your browser or deploy via GitHub Pages
 
 ## 📬 Contact
 
